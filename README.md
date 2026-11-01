@@ -10,7 +10,7 @@ Automated lead capture workflow built with n8n that converts website leads into 
 3.  **HubSpot** - Auto-creates/updates contact in CRM
 4.  **Gmail** - Sends instant confirmation email to lead
 
-### Tech Stack:
+### Tech Stack:-
 - n8n (No-Code Automation)
 - HubSpot CRM API
 - Gmail API
